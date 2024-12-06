@@ -1,0 +1,3 @@
+﻿  exercice3.cpp
+C:\Users\NICOLAS\Desktop\codes\object\cours2\exercice3\exercice3\exercice3.cpp(25,59): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+  exercice3.vcxproj -> C:\Users\NICOLAS\Desktop\codes\object\cours2\exercice3\x64\Debug\exercice3.exe

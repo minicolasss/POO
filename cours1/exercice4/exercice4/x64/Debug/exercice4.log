@@ -1,0 +1,3 @@
+﻿  exercice4.cpp
+C:\Users\NICOLAS\Desktop\codes\object\cours1\exercice4\exercice4\exercice4.cpp(16,11): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+  exercice4.vcxproj -> C:\Users\NICOLAS\Desktop\codes\object\cours1\exercice4\x64\Debug\exercice4.exe

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NICOLAS\\Desktop\\codes\\object\\cours2\\exercice1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C32D1DE0-0DEB-4669-96D8-718E9ED9963F}|exercice1\\exercice1.vcxproj|C:\\Users\\NICOLAS\\Desktop\\codes\\object\\cours2\\exercice1\\exercice1\\exercice1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C32D1DE0-0DEB-4669-96D8-718E9ED9963F}|exercice1\\exercice1.vcxproj|solutionrelative:exercice1\\exercice1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "exercice1.cpp",
+              "DocumentMoniker": "C:\\Users\\NICOLAS\\Desktop\\codes\\object\\cours2\\exercice1\\exercice1\\exercice1.cpp",
+              "RelativeDocumentMoniker": "exercice1\\exercice1.cpp",
+              "ToolTip": "C:\\Users\\NICOLAS\\Desktop\\codes\\object\\cours2\\exercice1\\exercice1\\exercice1.cpp",
+              "RelativeToolTip": "exercice1\\exercice1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-06T08:21:42.055Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
