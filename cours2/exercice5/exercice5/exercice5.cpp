@@ -7,15 +7,46 @@
 
 using namespace std;
 
-float game()
+void chooselettre()
 {
-	
+	string motcacher = cache();
+
+	char guess;
+	cout << "choisie une lettre :	";
+	cin >> guess;
+
+	int index;
+	string word = chooseword(); 
+	int length = word.length();
+
+	for (index = 0; index < length; ++index)
+	{
+		if (word[index] == guess) {
+			motcacher[index] = guess;
+
+			cout << cache();
+		}
+	}
+
 }
 
 
+string cache()
+{
+	string motcacher;
 
+	srand(static_cast<unsigned int>(time(0)));
 
+	motcacher = string(chooseword().length(), '_');
 
+	int randd = rand() % chooseword().length();
+
+	motcacher[randd] = chooseword()[randd];
+
+	cout << motcacher << endl;
+
+	return motcacher;
+}
 
 
 string chooseword()
@@ -25,7 +56,7 @@ string chooseword()
 	srand(static_cast<unsigned int>(time(0)));
 
 	int choose = rand() % words.size();
-	cout << words[choose];
+
 	return words[choose];
 }
 

@@ -1,0 +1,3 @@
+﻿  exercice4.cpp
+C:\Users\NICOLAS\Desktop\codes\POO\cours3\pointeur\exercice4\exercice4\exercice4.cpp(7,16): warning C4091: 'typedef ' : ignoré à gauche de 'Chanson' quand aucune variable n'est déclarée
+  exercice4.vcxproj -> C:\Users\NICOLAS\Desktop\codes\POO\cours3\pointeur\exercice4\x64\Debug\exercice4.exe
