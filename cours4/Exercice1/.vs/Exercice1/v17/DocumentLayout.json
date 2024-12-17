@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NICOLAS\\Desktop\\codes\\POO\\cours4\\Exercice1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C25C08B2-1B80-477D-BF10-0DF34D429990}|Exercice1\\Exercice1.vcxproj|C:\\Users\\NICOLAS\\Desktop\\codes\\POO\\cours4\\Exercice1\\Exercice1\\Personne.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C25C08B2-1B80-477D-BF10-0DF34D429990}|Exercice1\\Exercice1.vcxproj|solutionrelative:Exercice1\\Personne.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C25C08B2-1B80-477D-BF10-0DF34D429990}|Exercice1\\Exercice1.vcxproj|C:\\Users\\NICOLAS\\Desktop\\codes\\POO\\cours4\\Exercice1\\Exercice1\\Personne.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C25C08B2-1B80-477D-BF10-0DF34D429990}|Exercice1\\Exercice1.vcxproj|solutionrelative:Exercice1\\Personne.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C25C08B2-1B80-477D-BF10-0DF34D429990}|Exercice1\\Exercice1.vcxproj|C:\\Users\\NICOLAS\\Desktop\\codes\\POO\\cours4\\Exercice1\\Exercice1\\Exercice1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C25C08B2-1B80-477D-BF10-0DF34D429990}|Exercice1\\Exercice1.vcxproj|solutionrelative:Exercice1\\Exercice1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C25C08B2-1B80-477D-BF10-0DF34D429990}|Exercice1\\Exercice1.vcxproj|C:\\Users\\NICOLAS\\Desktop\\codes\\POO\\cours4\\Exercice1\\Exercice1\\Livre.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C25C08B2-1B80-477D-BF10-0DF34D429990}|Exercice1\\Exercice1.vcxproj|solutionrelative:Exercice1\\Livre.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C25C08B2-1B80-477D-BF10-0DF34D429990}|Exercice1\\Exercice1.vcxproj|C:\\Users\\NICOLAS\\Desktop\\codes\\POO\\cours4\\Exercice1\\Exercice1\\Livre.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C25C08B2-1B80-477D-BF10-0DF34D429990}|Exercice1\\Exercice1.vcxproj|solutionrelative:Exercice1\\Livre.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Personne.cpp",
+              "DocumentMoniker": "C:\\Users\\NICOLAS\\Desktop\\codes\\POO\\cours4\\Exercice1\\Exercice1\\Personne.cpp",
+              "RelativeDocumentMoniker": "Exercice1\\Personne.cpp",
+              "ToolTip": "C:\\Users\\NICOLAS\\Desktop\\codes\\POO\\cours4\\Exercice1\\Exercice1\\Personne.cpp",
+              "RelativeToolTip": "Exercice1\\Personne.cpp",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAAF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-17T07:55:38.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Personne.hpp",
+              "DocumentMoniker": "C:\\Users\\NICOLAS\\Desktop\\codes\\POO\\cours4\\Exercice1\\Exercice1\\Personne.hpp",
+              "RelativeDocumentMoniker": "Exercice1\\Personne.hpp",
+              "ToolTip": "C:\\Users\\NICOLAS\\Desktop\\codes\\POO\\cours4\\Exercice1\\Exercice1\\Personne.hpp",
+              "RelativeToolTip": "Exercice1\\Personne.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-17T07:54:42.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Livre.cpp",
+              "DocumentMoniker": "C:\\Users\\NICOLAS\\Desktop\\codes\\POO\\cours4\\Exercice1\\Exercice1\\Livre.cpp",
+              "RelativeDocumentMoniker": "Exercice1\\Livre.cpp",
+              "ToolTip": "C:\\Users\\NICOLAS\\Desktop\\codes\\POO\\cours4\\Exercice1\\Exercice1\\Livre.cpp",
+              "RelativeToolTip": "Exercice1\\Livre.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-17T07:56:27.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Livre.hpp",
+              "DocumentMoniker": "C:\\Users\\NICOLAS\\Desktop\\codes\\POO\\cours4\\Exercice1\\Exercice1\\Livre.hpp",
+              "RelativeDocumentMoniker": "Exercice1\\Livre.hpp",
+              "ToolTip": "C:\\Users\\NICOLAS\\Desktop\\codes\\POO\\cours4\\Exercice1\\Exercice1\\Livre.hpp",
+              "RelativeToolTip": "Exercice1\\Livre.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-17T07:55:10.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Exercice1.cpp",
+              "DocumentMoniker": "C:\\Users\\NICOLAS\\Desktop\\codes\\POO\\cours4\\Exercice1\\Exercice1\\Exercice1.cpp",
+              "RelativeDocumentMoniker": "Exercice1\\Exercice1.cpp",
+              "ToolTip": "C:\\Users\\NICOLAS\\Desktop\\codes\\POO\\cours4\\Exercice1\\Exercice1\\Exercice1.cpp",
+              "RelativeToolTip": "Exercice1\\Exercice1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-17T07:53:52.38Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

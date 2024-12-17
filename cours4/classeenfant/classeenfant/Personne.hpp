@@ -33,7 +33,12 @@ public:
 	void ajouterLivre(Livre* l);
 
 	void afficherBiblio() const;
+
+
+	void Afficherinfogeneral() const;
 };
+
+
 
 
 #endif
