@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NICOLAS\\Desktop\\codes\\POO\\cours3\\classe\\exercice1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2383DA6-96F4-4D02-9130-FF10EDC823BB}|exercice1\\exercice1.vcxproj|C:\\Users\\NICOLAS\\Desktop\\codes\\POO\\cours3\\classe\\exercice1\\exercice1\\exercice1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C2383DA6-96F4-4D02-9130-FF10EDC823BB}|exercice1\\exercice1.vcxproj|solutionrelative:exercice1\\exercice1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2383DA6-96F4-4D02-9130-FF10EDC823BB}|exercice1\\exercice1.vcxproj|C:\\Users\\NICOLAS\\Desktop\\codes\\POO\\cours3\\classe\\exercice1\\exercice1\\voiture.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C2383DA6-96F4-4D02-9130-FF10EDC823BB}|exercice1\\exercice1.vcxproj|solutionrelative:exercice1\\voiture.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2383DA6-96F4-4D02-9130-FF10EDC823BB}|exercice1\\exercice1.vcxproj|C:\\Users\\NICOLAS\\Desktop\\codes\\POO\\cours3\\classe\\exercice1\\exercice1\\voiture.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C2383DA6-96F4-4D02-9130-FF10EDC823BB}|exercice1\\exercice1.vcxproj|solutionrelative:exercice1\\voiture.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "voiture.cpp",
+              "DocumentMoniker": "C:\\Users\\NICOLAS\\Desktop\\codes\\POO\\cours3\\classe\\exercice1\\exercice1\\voiture.cpp",
+              "RelativeDocumentMoniker": "exercice1\\voiture.cpp",
+              "ToolTip": "C:\\Users\\NICOLAS\\Desktop\\codes\\POO\\cours3\\classe\\exercice1\\exercice1\\voiture.cpp",
+              "RelativeToolTip": "exercice1\\voiture.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-09T11:47:26.056Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "voiture.hpp",
+              "DocumentMoniker": "C:\\Users\\NICOLAS\\Desktop\\codes\\POO\\cours3\\classe\\exercice1\\exercice1\\voiture.hpp",
+              "RelativeDocumentMoniker": "exercice1\\voiture.hpp",
+              "ToolTip": "C:\\Users\\NICOLAS\\Desktop\\codes\\POO\\cours3\\classe\\exercice1\\exercice1\\voiture.hpp",
+              "RelativeToolTip": "exercice1\\voiture.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-09T11:44:13.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "exercice1.cpp",
+              "DocumentMoniker": "C:\\Users\\NICOLAS\\Desktop\\codes\\POO\\cours3\\classe\\exercice1\\exercice1\\exercice1.cpp",
+              "RelativeDocumentMoniker": "exercice1\\exercice1.cpp",
+              "ToolTip": "C:\\Users\\NICOLAS\\Desktop\\codes\\POO\\cours3\\classe\\exercice1\\exercice1\\exercice1.cpp",
+              "RelativeToolTip": "exercice1\\exercice1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-09T11:43:15.376Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

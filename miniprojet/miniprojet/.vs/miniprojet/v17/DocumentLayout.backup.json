@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NICOLAS\\Desktop\\codes\\POO\\miniprojet\\miniprojet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57BAEEC2-CEB7-4817-BC63-801C4CA37687}|miniprojet\\miniprojet.vcxproj|C:\\Users\\NICOLAS\\Desktop\\codes\\POO\\miniprojet\\miniprojet\\miniprojet\\miniprojet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{57BAEEC2-CEB7-4817-BC63-801C4CA37687}|miniprojet\\miniprojet.vcxproj|solutionrelative:miniprojet\\miniprojet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57BAEEC2-CEB7-4817-BC63-801C4CA37687}|miniprojet\\miniprojet.vcxproj|C:\\Users\\NICOLAS\\Desktop\\codes\\POO\\miniprojet\\miniprojet\\miniprojet\\MINIPROJET.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{57BAEEC2-CEB7-4817-BC63-801C4CA37687}|miniprojet\\miniprojet.vcxproj|solutionrelative:miniprojet\\MINIPROJET.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57BAEEC2-CEB7-4817-BC63-801C4CA37687}|miniprojet\\miniprojet.vcxproj|C:\\Users\\NICOLAS\\Desktop\\codes\\POO\\miniprojet\\miniprojet\\miniprojet\\fonction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{57BAEEC2-CEB7-4817-BC63-801C4CA37687}|miniprojet\\miniprojet.vcxproj|solutionrelative:miniprojet\\fonction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MINIPROJET.hpp",
+              "DocumentMoniker": "C:\\Users\\NICOLAS\\Desktop\\codes\\POO\\miniprojet\\miniprojet\\miniprojet\\MINIPROJET.hpp",
+              "RelativeDocumentMoniker": "miniprojet\\MINIPROJET.hpp",
+              "ToolTip": "C:\\Users\\NICOLAS\\Desktop\\codes\\POO\\miniprojet\\miniprojet\\miniprojet\\MINIPROJET.hpp",
+              "RelativeToolTip": "miniprojet\\MINIPROJET.hpp",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvzQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-13T10:00:01.276Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fonction.cpp",
+              "DocumentMoniker": "C:\\Users\\NICOLAS\\Desktop\\codes\\POO\\miniprojet\\miniprojet\\miniprojet\\fonction.cpp",
+              "RelativeDocumentMoniker": "miniprojet\\fonction.cpp",
+              "ToolTip": "C:\\Users\\NICOLAS\\Desktop\\codes\\POO\\miniprojet\\miniprojet\\miniprojet\\fonction.cpp",
+              "RelativeToolTip": "miniprojet\\fonction.cpp",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvzcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-13T10:06:25.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "miniprojet.cpp",
+              "DocumentMoniker": "C:\\Users\\NICOLAS\\Desktop\\codes\\POO\\miniprojet\\miniprojet\\miniprojet\\miniprojet.cpp",
+              "RelativeDocumentMoniker": "miniprojet\\miniprojet.cpp",
+              "ToolTip": "C:\\Users\\NICOLAS\\Desktop\\codes\\POO\\miniprojet\\miniprojet\\miniprojet\\miniprojet.cpp*",
+              "RelativeToolTip": "miniprojet\\miniprojet.cpp*",
+              "ViewState": "AgIAAFcAAAAAAAAAAADwvz8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-13T09:42:25.139Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NICOLAS\\Desktop\\codes\\POO\\cours4\\classeenfant\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1358F14-259A-460E-BD52-8CCB82F323FF}|classeenfant\\classeenfant.vcxproj|C:\\Users\\NICOLAS\\Desktop\\codes\\POO\\cours4\\classeenfant\\classeenfant\\Personne.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E1358F14-259A-460E-BD52-8CCB82F323FF}|classeenfant\\classeenfant.vcxproj|solutionrelative:classeenfant\\Personne.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1358F14-259A-460E-BD52-8CCB82F323FF}|classeenfant\\classeenfant.vcxproj|C:\\Users\\NICOLAS\\Desktop\\codes\\POO\\cours4\\classeenfant\\classeenfant\\ExerciceClasse.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E1358F14-259A-460E-BD52-8CCB82F323FF}|classeenfant\\classeenfant.vcxproj|solutionrelative:classeenfant\\ExerciceClasse.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1358F14-259A-460E-BD52-8CCB82F323FF}|classeenfant\\classeenfant.vcxproj|C:\\Users\\NICOLAS\\Desktop\\codes\\POO\\cours4\\classeenfant\\classeenfant\\classeenfant.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E1358F14-259A-460E-BD52-8CCB82F323FF}|classeenfant\\classeenfant.vcxproj|solutionrelative:classeenfant\\classeenfant.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "classeenfant.cpp",
+              "DocumentMoniker": "C:\\Users\\NICOLAS\\Desktop\\codes\\POO\\cours4\\classeenfant\\classeenfant\\classeenfant.cpp",
+              "RelativeDocumentMoniker": "classeenfant\\classeenfant.cpp",
+              "ToolTip": "C:\\Users\\NICOLAS\\Desktop\\codes\\POO\\cours4\\classeenfant\\classeenfant\\classeenfant.cpp",
+              "RelativeToolTip": "classeenfant\\classeenfant.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-17T07:24:48.666Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExerciceClasse.cpp",
+              "DocumentMoniker": "C:\\Users\\NICOLAS\\Desktop\\codes\\POO\\cours4\\classeenfant\\classeenfant\\ExerciceClasse.cpp",
+              "RelativeDocumentMoniker": "classeenfant\\ExerciceClasse.cpp",
+              "ToolTip": "C:\\Users\\NICOLAS\\Desktop\\codes\\POO\\cours4\\classeenfant\\classeenfant\\ExerciceClasse.cpp",
+              "RelativeToolTip": "classeenfant\\ExerciceClasse.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-17T07:29:53.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Personne.hpp",
+              "DocumentMoniker": "C:\\Users\\NICOLAS\\Desktop\\codes\\POO\\cours4\\classeenfant\\classeenfant\\Personne.hpp",
+              "RelativeDocumentMoniker": "classeenfant\\Personne.hpp",
+              "ToolTip": "C:\\Users\\NICOLAS\\Desktop\\codes\\POO\\cours4\\classeenfant\\classeenfant\\Personne.hpp",
+              "RelativeToolTip": "classeenfant\\Personne.hpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-17T07:25:46.018Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
